@@ -1,0 +1,10 @@
+li a {
+
+    color: deepskyblue;
+    font-size: 20px;
+}
+
+body {
+    color: black;
+    background: white url("images/background.jpg") no-repeat;
+}
