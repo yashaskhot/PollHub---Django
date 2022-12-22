@@ -1,1 +1,5 @@
-# djangoproject
+PollHub - Django
+
+A Poll Creating and Voting app created with the help of Django Framework..
+
+references- Django Documentation
